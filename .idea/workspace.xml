@@ -1,26 +1,280 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ddd695e-c587-4b6b-a982-154d416824c0" name="Changes" comment="" />
+    <list default="true" id="0a8e7894-7448-4380-b23b-dbd8f1671f48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/2nd_large.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/CHECK_DUP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/EX1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/EXCP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/LIST_DICT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/anagram_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/assert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/check_anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/clss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/contains_dup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/count_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/count_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/dict111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/dict_complex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/dict_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/dup1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/duplicate_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/duplicate_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/dynamic_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/ex_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/file_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/find_list_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/if_else_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/input_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/last_bit_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/list_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/list_inside_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/list_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/list_to_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/max_in_dict_val.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/max_num_nested_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/oops_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/out_file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/ph_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/poli_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/remove_dup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/remove_duplsss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/remove_dups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/repeated_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/reverse_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/reverse_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/second_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/sentence_polidrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/set_eleminet_dup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/set_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/str_mutability_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/super_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/swapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/test_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_use/while_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constansts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constansts/api_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/payloads_managers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/end2end/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/sample/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
-  <component name="ProjectId" id="2rFjL63g3071jhCVlk9oYJfBwmP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shiva1797&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shiva1797/ApiautomationFW.git&quot;,
+    &quot;accountId&quot;: &quot;0560ec54-5fc3-4dcf-b4d7-6730cab33366&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rIYrtsTTWt7tSeLKAR3AJtuLN7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python tests.Python tests for EX1.test_1.executor": "Run",
+    "Python tests.Python tests in test_ex.py (1).executor": "Run",
+    "Python tests.Python tests in test_ex.py.executor": "Run",
+    "Python.2nd_large.executor": "Run",
+    "Python.CHECK_DUP.executor": "Run",
+    "Python.EX1.executor": "Run",
+    "Python.EXCP.executor": "Run",
+    "Python.LIST_DICT.executor": "Run",
+    "Python.anagram.executor": "Run",
+    "Python.anagram_1.executor": "Run",
+    "Python.args.executor": "Run",
+    "Python.assert.executor": "Run",
+    "Python.check_anagram.executor": "Run",
+    "Python.clss.executor": "Run",
+    "Python.contains_dup.executor": "Run",
+    "Python.count_char.executor": "Run",
+    "Python.count_letters.executor": "Run",
+    "Python.decor.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.dict_complex.executor": "Run",
+    "Python.dict_ex.executor": "Run",
+    "Python.dup1.executor": "Run",
+    "Python.duplicate_chars.executor": "Run",
+    "Python.duplicate_numbers.executor": "Run",
+    "Python.dynamic_dict.executor": "Run",
+    "Python.file_1.executor": "Run",
+    "Python.find_list_duplicates.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.if_else_elif.executor": "Run",
+    "Python.input_output.executor": "Run",
+    "Python.kwargs.executor": "Run",
+    "Python.last_bit_check.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_1.executor": "Run",
+    "Python.list_inside_list.executor": "Run",
+    "Python.list_sum.executor": "Run",
+    "Python.list_to_str.executor": "Run",
+    "Python.map.executor": "Run",
+    "Python.max_in_dict_val.executor": "Run",
+    "Python.max_num_nested_list.executor": "Run",
+    "Python.num.executor": "Run",
+    "Python.oops_1.executor": "Run",
+    "Python.pattern1.executor": "Run",
+    "Python.prime.executor": "Run",
+    "Python.remove_dup.executor": "Run",
+    "Python.remove_duplsss.executor": "Run",
+    "Python.remove_dups.executor": "Run",
+    "Python.repeated_str.executor": "Run",
+    "Python.reverse_dict.executor": "Run",
+    "Python.second_max.executor": "Run",
+    "Python.sentence_polidrome.executor": "Run",
+    "Python.set_ex.executor": "Run",
+    "Python.str_mutability_check.executor": "Run",
+    "Python.super_class.executor": "Run",
+    "Python.swapping.executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.task10.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.task3.executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.task5.executor": "Run",
+    "Python.task6.executor": "Run",
+    "Python.task7.executor": "Run",
+    "Python.task8.executor": "Run",
+    "Python.task9.executor": "Run",
+    "Python.tasks.executor": "Run",
+    "Python.test1.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
+    "Python.tuple.executor": "Run",
+    "Python.while_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests for EX1.test_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ApiautomationFW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_use" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;EX1.test_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_ex.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ApiautomationFW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_use" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/demo_use/test_ex.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_ex.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ApiautomationFW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_use" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/demo_use/test_ex.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_ex.py (1)" />
+        <item itemvalue="Python tests.Python tests in test_ex.py" />
+        <item itemvalue="Python tests.Python tests for EX1.test_1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -31,11 +285,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5ddd695e-c587-4b6b-a982-154d416824c0" name="Changes" comment="" />
-      <created>1736161657464</created>
+      <changelist id="0a8e7894-7448-4380-b23b-dbd8f1671f48" name="Changes" comment="" />
+      <created>1736248257568</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1736161657464</updated>
+      <updated>1736248257568</updated>
     </task>
     <servers />
   </component>
